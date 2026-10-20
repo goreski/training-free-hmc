@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+data/
+scores/
+results/
+baselines/C-HMCNN/
+baselines/SPUR/
+baselines/out/
